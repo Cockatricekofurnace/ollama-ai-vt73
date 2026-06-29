@@ -1,4 +1,4 @@
-# 
+# Smart Ollama themes. Featuring model-deployment and privacy-preserving — optimized for maximum performance and efficiency.
 
 
 
